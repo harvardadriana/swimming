@@ -1,0 +1,25 @@
+body {
+background-color: #000;
+}
+
+td {
+border: 2px solid black;
+background-color: #000;
+}
+
+#mainPicture {
+width: 1070px;
+height: 670px;
+top: 0;
+bottom: 0;
+border-top: 35px solid yellow;
+border-bottom: 40px solid yellow;
+}
+
+h1 {
+position: absolute;
+top: 550px;
+left: 550px;
+color: yellow;
+font-size: 100px;
+}

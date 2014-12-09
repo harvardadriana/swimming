@@ -1,0 +1,72 @@
+video {
+min-width: 1400px;
+max-width: 1400px;
+min-height: 100%;
+width: 1400px;
+height: auto;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+#container {
+width: 1250px;
+height: auto;
+position: absolute;
+top: 90px;
+left: 0;
+right: 0;
+padding: 0;
+margin: 0 auto;
+background-position: center;
+}
+
+h1 {
+display: none;
+font-size: 50px;
+color: green;
+font-family: 'Great Vibes', cursive;
+margin: 0 100px 170px 0;
+text-align: right;
+}
+
+h2 { 
+color: #000066; 
+}
+
+p { 
+color: #000033; 
+}
+
+ul {
+display: block;
+list-style-type: none;
+}
+
+li {
+float: left;
+margin: -15px;
+}
+
+figure {
+background-color: #d3d3d3;
+padding: 10px;
+}
+
+figcaption { 
+width: 300px; 
+}
+
+li a { 
+text-decoration: none; 
+}
+
+img:hover {
+opacity: 0.5;
+}
+
+img {
+width: 300px;
+height: 200px;
+}
